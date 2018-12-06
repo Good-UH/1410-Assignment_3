@@ -6,7 +6,8 @@ Hat Size = weight in pounds divided by height in inches and all that multiplied 
 Waist in inches = weight divided by 5.7 and then adjusted by adding 1/10 of an inch for 
 each 2 years over age 28. Assume that the user will ALWAYS enter a number BUT you
 should check if the number is larger than 0(zero) for each variable.
-Assume the user will always enter proper type of value (integer or double or char)*/
+Assume the user will always enter proper type of value (integer or double or char)
+*/
 
 #include <iostream>
 using namespace std;
